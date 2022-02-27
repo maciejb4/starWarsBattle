@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/starWarsBattle/static/css/main.073c9b0a.css",
+    "main.js": "/starWarsBattle/static/js/main.b6f6a1ca.js",
+    "static/js/787.44e2df5b.chunk.js": "/starWarsBattle/static/js/787.44e2df5b.chunk.js",
+    "index.html": "/starWarsBattle/index.html",
+    "main.073c9b0a.css.map": "/starWarsBattle/static/css/main.073c9b0a.css.map",
+    "main.b6f6a1ca.js.map": "/starWarsBattle/static/js/main.b6f6a1ca.js.map",
+    "787.44e2df5b.chunk.js.map": "/starWarsBattle/static/js/787.44e2df5b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b6f6a1ca.js"
+  ]
+}
